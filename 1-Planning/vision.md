@@ -10,4 +10,4 @@ A command-line tool to log personal expenses and see monthly summaries.
 Developers and terminal users who want fast, offline expense tracking
 
 ## Success metrics
-- [ ] *(owner to define, e.g. a user completes the core flow in under 1 minute)*
+- [ ] A new user installs SpendCLI and logs their first expense in **under 1 minute** (measured in Phase 5 by following the README from a clean machine/folder).
